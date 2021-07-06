@@ -1,22 +1,22 @@
 ![](https://img.shields.io/badge/Microverse-blueviolet)
 
-# Project Name
+ My first Micronaut Project
 
-> One paragraph statement about the project.
+> This is my first project as a Microverse student.
 
-![screenshot](./app_screenshot.png)
+![screenshot]()
 
-Additional description about the project and its features.
+In this project I have added Linters for HTMLand CSS. I have also added gitignore file to hide two unnecessary files
 
 ## Built With
 
-- Major languages
-- Frameworks
-- Technologies used
+- HTML
+- CSS
+- Using VS Code
 
 ## Live Demo
 
-[Live Demo Link](https://livedemo.com)
+[Live Demo Link](#)
 
 
 ## Getting Started
@@ -27,11 +27,15 @@ Additional description about the project and its features.
 
 To get a local copy up and running follow these simple example steps.
 
-### Prerequisites
-
-### Setup
+### Prerequisites 
+-vs code
+-github access
+-npm
+-web browser
 
 ### Install
+-clone the repo to local machine.
+-use the following link (https://github.com/Busiwa24/Microverse-Hello-Project)
 
 ### Usage
 
@@ -40,26 +44,19 @@ To get a local copy up and running follow these simple example steps.
 ### Deployment
 
 
+👤 **Author**
 
-## Authors
+- GitHub: [@githubhandle](https://github.com/Busiwa24)
+- Twitter: [@twitterhandle](https://twitter.com/busiwaliuma)
+- LinkedIn: [LinkedIn](https://linkedin.com/in/https://www.linkedin.com/in/busiwa-liuma-28385b80/)
 
-👤 **Author1**
 
-- GitHub: [@githubhandle](https://github.com/githubhandle)
-- Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
-- LinkedIn: [LinkedIn](https://linkedin.com/in/linkedinhandle)
-
-👤 **Author2**
-
-- GitHub: [@githubhandle](https://github.com/githubhandle)
-- Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
-- LinkedIn: [LinkedIn](https://linkedin.com/in/linkedinhandle)
 
 ## 🤝 Contributing
 
 Contributions, issues, and feature requests are welcome!
 
-Feel free to check the [issues page](../../issues/).
+Feel free to check the [issues page](https://github.com/issues).
 
 ## Show your support
 
@@ -69,7 +66,7 @@ Give a ⭐️ if you like this project!
 
 - Hat tip to anyone whose code was used
 - Inspiration
-- etc
+- shout out to #Munsa Mibenge
 
 ## 📝 License
 
